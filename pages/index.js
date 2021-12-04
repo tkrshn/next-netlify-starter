@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="👋 Hey there!" />
         <p className="description">
-          Thanks for visiting. This site is WIP. Feel free to check back later if you'd like to know me.
+          Thanks for visiting. This site is WIP. Feel free to check back later if you'd like to know about me.
         </p>
       </main>
 
