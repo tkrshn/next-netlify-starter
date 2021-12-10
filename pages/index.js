@@ -18,8 +18,8 @@ export default function Home() {
         <p>
           Meanwhile here are a couple of technical blogs about Splunk I wrote for my org:
           <ul>
-            <li><a href="https://discoveredintelligence.ca/moving-bits-around-deploying-splunk-apps-with-github-actions/">Moving bits around: Deploying Splunk Apps with Github Actions</a></li>
-            <li><a href="https://discoveredintelligence.ca/harnessing-ingest-time-eval-fields/">Harnessing Ingest-Time Eval Fields</a></li>
+            <li><a href="https://discoveredintelligence.ca/moving-bits-around-deploying-splunk-apps-with-github-actions/" target="_blank">Moving bits around: Deploying Splunk Apps with Github Actions</a></li>
+            <li><a href="https://discoveredintelligence.ca/harnessing-ingest-time-eval-fields/" target="_blank">Harnessing Ingest-Time Eval Fields</a></li>
           </ul>
         </p>
       </main>
