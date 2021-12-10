@@ -61,15 +61,15 @@ export default function Home() {
             <li><a href="https://discoveredintelligence.ca/harnessing-ingest-time-eval-fields/" target="_blank">Harnessing Ingest-Time Eval Fields</a></li>
           </ul>
         </p>
+        <div class="stickyicon-list">
+          <a href="https://twitter.com/tkrshn" class="twitter">
+            <i class="fa fa-twitter"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/tkrshn/" class="linkedin">
+            <i class="fa fa-linkedin"></i>
+          </a>
+        </div>
       </main>
-      <div class="stickyicon-list">
-        <a href="https://twitter.com/tkrshn" class="twitter">
-          <i class="fa fa-twitter"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/tkrshn/" class="linkedin">
-          <i class="fa fa-linkedin"></i>
-        </a>
-      </div>
       <Footer />
     </div>
   )
