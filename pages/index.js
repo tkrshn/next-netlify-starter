@@ -14,8 +14,7 @@ export default function Home() {
         <Header title="👋 Hey there!" />
         <p className="description">
           Thanks for visiting. This site is WIP. Feel free to check back later if you'd like to know about me.
-        </p>
-        <p>
+          
           Meanwhile here are a couple of technical blogs about Splunk I wrote for my org:
           <ul>
             <li><a href="https://discoveredintelligence.ca/moving-bits-around-deploying-splunk-apps-with-github-actions/" target="_blank">Moving bits around: Deploying Splunk Apps with Github Actions</a></li>
