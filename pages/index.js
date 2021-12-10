@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Meet tkrshn!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,6 +14,13 @@ export default function Home() {
         <Header title="👋 Hey there!" />
         <p className="description">
           Thanks for visiting. This site is WIP. Feel free to check back later if you'd like to know about me.
+        </p>
+        <p>
+          Meanwhile here are a couple of technical blogs about Splunk I wrote for my org:
+          <ul>
+            <li><a href="https://discoveredintelligence.ca/moving-bits-around-deploying-splunk-apps-with-github-actions/">Moving bits around: Deploying Splunk Apps with Github Actions</a></li>
+            <li><a href="https://discoveredintelligence.ca/harnessing-ingest-time-eval-fields/">Harnessing Ingest-Time Eval Fields</a></li>
+          </ul>
         </p>
       </main>
 
