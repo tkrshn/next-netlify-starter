@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>👋 from tkrshn</title>
         <link rel="icon" href="/favicon.ico" />
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=optional" rel="stylesheet"/>
       </Head>
 
       <main>
