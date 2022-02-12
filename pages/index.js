@@ -32,14 +32,10 @@ export default function Home() {
           </ul>
         </p>
         <div>
-        <TwitterShareButton
-        {/* Url you want to share */}
-        url={'https://www.linkedin.com/in/tkrshn/'} >
-        <TwitterIcon size={32} round />
+        <TwitterShareButton url={'https://www.linkedin.com/in/tkrshn/'} >
+          <TwitterIcon size={32} round />
         </TwitterShareButton>
-        <LinkedinShareButton
-          {/* Url you want to share */}
-          url={'https://www.linkedin.com/in/tkrshn/'} >
+        <LinkedinShareButton url={'https://www.linkedin.com/in/tkrshn/'} >
           <LinkedinIcon size={32} round />
         </LinkedinShareButton>
     </div>
