@@ -22,6 +22,7 @@ export default function Home() {
         </p>
         <div>
           <a href="https://twitter.com/tkrshn">Twitter</a>
+        <br/>
           <a href="https://www.linkedin.com/in/tkrshn/">LinkedIn</a>
         </div>
       </main>
