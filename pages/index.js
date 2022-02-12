@@ -20,10 +20,8 @@ export default function Home() {
           </ul>
         </p>
         <div>
-          <a href="https://twitter.com/tkrshn" class="twitter">
-          </a>
-          <a href="https://www.linkedin.com/in/tkrshn/" class="linkedin">
-          </a>
+          <a href="https://twitter.com/tkrshn">Twitter</a>
+          <a href="https://www.linkedin.com/in/tkrshn/">LinkedIn</a>
         </div>
       </main>
       <Footer />
